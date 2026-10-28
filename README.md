@@ -16,5 +16,5 @@ Welcome to the official developer and architecture portal for **SentryLink LLC**
 
 ### Commercial & Procurement
 * **Procurement:** Available for enterprise procurement via Google Cloud Marketplace Private Offers with 100% committed contract drawdown (EDC/EDP).
-* **Live Commercial Portal:** https://ais-pre-6g7yelkxk2u76g7ka43alz-349785035546.us-west2.run.app/?view=website
+* **Live Commercial Portal:** https://sentrylink-sc.com
 * **Executive Contact:** James Lightfoot (james@sentrylink-sc.com)
